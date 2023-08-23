@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="PeachGata.png" width="490" height="317">
+  <SubTexture name="up0000" x="2" y="2"  width="61" height="113" frameX="-19" frameY="-8" frameWidth="118" frameHeight="128"/>
+  <SubTexture name="left0000" x="2" y="119"  width="83" height="110" frameX="-16" frameY="-12" frameWidth="118" frameHeight="128"/>
+  <SubTexture name="up0001" x="67" y="2"  width="61" height="110" frameX="-19" frameY="-10" frameWidth="118" frameHeight="128"/>
+  <SubTexture name="left0001" x="2" y="233" width="109" height="80" rotated="true"  frameX="-19" frameY="-12" frameWidth="118" frameHeight="128"/>
+  <SubTexture name="talk0000" x="89" y="116"  width="68" height="107" frameX="-27" frameY="-10" frameWidth="118" frameHeight="128"/>
+  <SubTexture name="idle0002" x="132" y="2"  width="80" height="106" frameX="-19" frameY="-12" frameWidth="118" frameHeight="128"/>
+  <SubTexture name="idle0003" x="115" y="227" width="106" height="80" rotated="true"  frameX="-19" frameY="-11" frameWidth="118" frameHeight="128"/>
+  <SubTexture name="idle0004" x="161" y="112"  width="80" height="106" frameX="-19" frameY="-11" frameWidth="118" frameHeight="128"/>
+  <SubTexture name="right0000" x="216" y="2"  width="79" height="106" frameX="-11" frameY="-12" frameWidth="118" frameHeight="128"/>
+  <SubTexture name="right0001" x="225" y="222" width="106" height="75" rotated="true"  frameX="-13" frameY="-12" frameWidth="118" frameHeight="128"/>
+  <SubTexture name="talk0001" x="245" y="112"  width="70" height="106" frameX="-27" frameY="-11" frameWidth="118" frameHeight="128"/>
+  <SubTexture name="idle0000" x="299" y="2"  width="80" height="104" frameX="-19" frameY="-16" frameWidth="118" frameHeight="128"/>
+  <SubTexture name="idle0001" x="319" y="110"  width="80" height="104" frameX="-19" frameY="-15" frameWidth="118" frameHeight="128"/>
+  <SubTexture name="laughter0000" x="383" y="2"  width="72" height="103" frameX="-27" frameY="-13" frameWidth="118" frameHeight="128"/>
+  <SubTexture name="laughter0001" x="403" y="109"  width="72" height="101" frameX="-27" frameY="-14" frameWidth="118" frameHeight="128"/>
+  <SubTexture name="down0001" x="335" y="218"  width="74" height="97" frameX="-19" frameY="-18" frameWidth="118" frameHeight="128"/>
+  <SubTexture name="down0000" x="413" y="214"  width="75" height="95" frameX="-19" frameY="-19" frameWidth="118" frameHeight="128"/>
+  <SubTexture name="idle0005" x="115" y="227" width="106" height="80" rotated="true"  frameX="-19" frameY="-11" frameWidth="118" frameHeight="128"/>
+</TextureAtlas>

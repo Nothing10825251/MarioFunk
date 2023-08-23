@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="musiclvl3.png" width="684" height="592">
+  <SubTexture name="idleL0000" x="2" y="2"  width="224" height="144" frameX="-0" frameY="-0" frameWidth="224" frameHeight="144"/>
+  <SubTexture name="idleL0001" x="230" y="2"  width="224" height="144" frameX="-0" frameY="-0" frameWidth="224" frameHeight="144"/>
+  <SubTexture name="idleL0002" x="458" y="2"  width="224" height="144" frameX="-0" frameY="-0" frameWidth="224" frameHeight="144"/>
+  <SubTexture name="idleL0003" x="2" y="150"  width="224" height="144" frameX="-0" frameY="-0" frameWidth="224" frameHeight="144"/>
+  <SubTexture name="idleL0004" x="230" y="150"  width="224" height="144" frameX="-0" frameY="-0" frameWidth="224" frameHeight="144"/>
+  <SubTexture name="idleL0005" x="458" y="150"  width="224" height="144" frameX="-0" frameY="-0" frameWidth="224" frameHeight="144"/>
+  <SubTexture name="idleR0000" x="2" y="298"  width="224" height="144" frameX="-0" frameY="-0" frameWidth="224" frameHeight="144"/>
+  <SubTexture name="idleR0001" x="230" y="298"  width="224" height="144" frameX="-0" frameY="-0" frameWidth="224" frameHeight="144"/>
+  <SubTexture name="idleR0002" x="458" y="298"  width="224" height="144" frameX="-0" frameY="-0" frameWidth="224" frameHeight="144"/>
+  <SubTexture name="idleR0003" x="2" y="446"  width="224" height="144" frameX="-0" frameY="-0" frameWidth="224" frameHeight="144"/>
+  <SubTexture name="idleR0004" x="230" y="446"  width="224" height="144" frameX="-0" frameY="-0" frameWidth="224" frameHeight="144"/>
+  <SubTexture name="idleR0005" x="458" y="446"  width="224" height="144" frameX="-0" frameY="-0" frameWidth="224" frameHeight="144"/>
+</TextureAtlas>
